@@ -151,7 +151,7 @@ void* ThreadFunc(void * arg){
 }
 ~~~
 <br><br>
-**You can see the whole source code in my [gitlab](https://hconnect.hanyang.ac.kr/2017_ITE4065_10074/2017_ITE4065_2012004203/tree/master/project3)**
+**You can see the whole source code in my [github](https://github.com/heeveloper/ParallelProgramming/tree/master/project3)**
 <br><br>
 
 ---
