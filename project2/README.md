@@ -35,7 +35,7 @@ Concurrent Programming Project #2
 For each record, locks that attempt to access the record line up. This line acts like FIFO queue. The lock table can be represented by the **double linked-list** of this whole locks waiting for access to their records. This is illustrated in figure below.
 
 > Lock table
-> ![locktable](./image/image1.png)
+> ![image](./image/image1.png)
 
 <br><br>
 
@@ -291,7 +291,7 @@ if(threads_stat[tid].ptrRecord[2]->pre == &lock_table[k]){
 
 ## 3. Github
 
-You can get the whole source code in my [Github](https://github.com/heeveloper/ParallelProgramming/tree/master/project2)
+You can get the whole source code in my [Github](https://hconnect.hanyang.ac.kr/2017_ITE4065_10074/2017_ITE4065_2012004203/tree/master/project2)
 <br>
 
 ---
